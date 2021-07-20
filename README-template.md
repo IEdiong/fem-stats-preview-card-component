@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/IEdiong/stats-preview-card-component)
+- Live Site URL: [live site URL](https://iediong.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -51,23 +51,18 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- Naming convention like BEM
+- Screenreader only text
+- SASS
+- React
 
 ### Useful resources
 
-- [Flex-box Playlist by Kevin Powell](https://youtube.com/playlist?list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd) - This helped me with the layout.
+- [Flexbox Basics Playlist by Kevin Powell](https://youtube.com/playlist?list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd) - This helped me with the layout.
 
 ## Author
 
