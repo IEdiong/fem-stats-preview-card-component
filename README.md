@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot of the desktop at 1440px](./screenshot/desktop-screenshot.png)
+![screenshot of the desktop at 1440px](./screenshots/desktop-screenshot.png)
 
 ### Links
 
