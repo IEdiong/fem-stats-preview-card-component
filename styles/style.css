@@ -40,10 +40,10 @@ img {
   opacity: 0.8;
 }
 
-h3 {
+h1 {
   font-size: 1.7rem;
   font-weight: 700;
-  margin-top: 1em;
+  margin-top: 0.8em;
   line-height: 1.1;
 }
 
@@ -83,7 +83,7 @@ main {
 
 .stats-item {
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
 }
 
 .stats-heading {
@@ -148,7 +148,7 @@ small {
     margin-top: 2em;
   }
 
-  h3 {
+  h1 {
     font-size: 3vw;
     margin-top: 1em;
   }
@@ -180,7 +180,7 @@ small {
     padding-left: 4.5em;
   }
 
-  h3 {
+  h1 {
     font-size: 2.3rem;
   }
 
