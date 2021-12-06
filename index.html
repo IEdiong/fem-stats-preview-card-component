@@ -21,17 +21,22 @@
   </header>
   <!-- Stats Preview Card -->
   <main class="container">
-    <section class="stats-preview-card row">
+    <div class="stats-preview-card row">
       <div class="stats-preview-imgBox">
         <picture class="stats-preview-img">
           <source srcset="images/image-header-desktop.jpg" media="(min-width: 654px)" />
           <img src="images/image-header-mobile.jpg" alt="people on their laptops" />
         </picture>
       </div>
-      <div class="stats-preview-text container">
+      <section class="stats-preview-text container">
         <h2>Get <span class="accent">insights</span> that help your business grow.</h2>
         <p>Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.</p>
-        <div class="row stats-container">
+        <ul class="stats__list">
+          <li class="stats-item"><span class="stats-item__numbers tt-sm">10k+</span>companies</li>
+          <li class="stats-item"><span class="stats-item__numbers">314</span>templates</li>
+          <li class="stats-item"><span class="stats-item__numbers">12M+</span>queries</li>
+        </ul>
+        <!-- <div class="row stats-container">
           <div class="stats-item">
             <span class="stats">10k+</span>
             <p class="stats-heading">companies</p>
@@ -44,9 +49,9 @@
             <span class="stats">12M+</span>
             <p class="stats-heading">queries</p>
           </div>
-        </div>
-      </div>
-    </section>
+        </div> -->
+      </section>
+    </div>
   </main>
 
   <!-- Footer -->
