@@ -68,6 +68,10 @@ h2 {
   text-transform: lowercase;
 }
 
+.ff-inter {
+  font-family: 'Inter', sans-serif;
+}
+
 .stats-preview-card {
   margin-top: 5em;
   margin-bottom: 5em;
@@ -106,18 +110,6 @@ h2 {
   font-weight: 700;
   color: #ffffff;
 }
-
-/* 
-.stats-heading {
-  text-transform: uppercase;
-  font-size: 0.7rem;
-  color: var(--stat-heading-white);
-}
-
-.stats {
-  font-size: 1.2rem;
-  font-weight: 700;
-} */
 
 footer {
   position: relative;
@@ -161,12 +153,6 @@ small {
     align-items: center;
   }
 
-  /* 
-  .stats-container {
-    margin-top: 3em;
-  }
-  */
-
   .stats-preview-card {
     margin-top: 0;
     margin-bottom: 0;
@@ -198,16 +184,17 @@ small {
     margin-top: 3em;
   }
 
-  .stats {
-    font-size: 1.3vw;
-  }
-
   .stats-item + .stats-item {
     margin-left: 4em;
   }
 
   .stats-item {
     font-size: 1vw;
+    font-family: 'Lexend Deca', sans-serif;
+  }
+
+  .stats-item__numbers {
+    font-size: 1.3vw;
   }
 
   footer {
@@ -232,13 +219,12 @@ small {
     font-size: 2.3rem;
   }
 
-  .stats {
-    font-size: 1.5rem;
-  }
-
-  .stats-heading {
-    font-family: 'Lexend Deca', sans-serif;
+  .stats-item {
     font-size: 0.77rem;
     letter-spacing: 0.1em;
+  }
+
+  .stats-item__numbers {
+    font-size: 1.5rem;
   }
 }
